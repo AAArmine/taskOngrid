@@ -1,0 +1,27 @@
+{
+  "name": "ongridTask",
+  "version": "1.0.0",
+  "description": "\"Protected Dashboard and its API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAArmine/taskOngrid.git"
+  },
+  "keywords": [],
+  "author": "ArmineAA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAArmine/taskOngrid/issues"
+  },
+  "homepage": "https://github.com/AAArmine/taskOngrid#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
